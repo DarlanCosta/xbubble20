@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Xbubble 2.0
+
+This application is designed to revamp the frontend layer of Xbubble, improving performance and optimizing the handling of large amounts of data.
 
 ## Getting Started
 

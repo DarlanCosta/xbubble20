@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "id1",
+      "name": "@Spectre_AI_",
+      "val": 20,
+      "img": "https://pbs.twimg.com/profile_images/1884563647378132992/r_jF7BP5_400x400.jpg",
+      "radious": 20
+    },
+    {
+      "id": "id2",
+      "name": "@IncomeSharks",
+      "val": 5,
+      "img": "https://pbs.twimg.com/profile_images/1356359564682092546/_h2xv58V_400x400.png"
+    },
+    {
+      "id": "id3",
+      "name": "@CryptoWizardd",
+      "val": 5,
+      "img": "https://pbs.twimg.com/profile_images/1692319430611517440/WwOa201h_400x400.jpg"
+    }
+  ],
+  "links": [
+    {
+      "source": "id1",
+      "target": "id2"
+    },
+    {
+      "source": "id1",
+      "target": "id3"
+    }
+  ]
+}
